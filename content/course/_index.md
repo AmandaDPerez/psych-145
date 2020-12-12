@@ -37,10 +37,10 @@ Office Hours will be done via signs-ups (link on Piazza). All communication will
 
 ## Schedule
 
-|Week| Lecture Topics   |Due Saturday 10PM   |
+|`   Week`| Lecture Topics   |Due Saturday 10PM   |
 |---|---|---|
 |1         |Intro to CT (ch 1)|   |
-|2 |Deductive Reasoning, Prediction, and Assumptions (ch 2)|Video response John Oliver (02/06) |
+|2 |Deductive Reasoning, Prediction,</br> and Assumptions (ch 2)|Video response </br>John Oliver (02/06) |
 |3 |Inductive Reasoning  (ch 3)|PT Essay 1 (02/13)|
 |4 |<b>EXAM</b>|<b>Exam 1 (CH 1-3; 02/20)</b>|
 |5 |CT & Scientific Reasoning (ch 4)|PT Essay 2 (02/27)|
