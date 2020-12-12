@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Syllabus
 type: book  # Do not modify.
 ---
 
