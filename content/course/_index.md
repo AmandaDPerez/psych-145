@@ -9,7 +9,7 @@ Welcome to Psych 145, taught in Spring 2021 by Professor Amanda D. Perez. Here y
 
 This course presents critical thinking and writing skills necessary to analyze, evaluate, and make decisions concerning complex contemporary issues in psychology. Topics include the principles of inductive and deductive reasoning, the philosophy of science, strengths and weaknesses of the scientific method, distinguishing knowledge from beliefs, and the examination of paradigms in psychology. The course integrates critical thinking and writing skills with effective written expression
 
-<b>Required Textbook</b>: Critical Thinking in Psychology and Everyday Life.
+<b>Required Textbook</b>: <a href = "https://www.macmillanlearning.com/college/us/product/Critical-Thinking-in-Psychology-and-Everyday-Life/p/1319063144"> Critical Thinking in Psychology and Everyday Life. </a>
 
 <b>Course Format</b>: Asynchronous and 100% online.
 
