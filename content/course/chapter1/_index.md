@@ -125,9 +125,32 @@ A **claim** is a statement asserting that someone or something has a particular 
 ## Opinions
 **Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
 
+## Evidence
+**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
 
+## Basic Argument
+A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
 
+### Finding Evidence
+Indicator phrases help identify evidence:
+* For example
+* Because of
+* It is known that
+Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
 
+### Weak or Bad Arguments
+Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
 
+### Counterarguments
+A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
+* Argument: “The earth is flat; I can see that it continues off into the distance.”
+* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
 
+### Inquiry
+The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
 
+### Ignorance or Possibility
+Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+
+## How to Practice CT
+If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
