@@ -40,7 +40,7 @@ hero_media = "book.emf.svg"
   url = "docs/"
   label = "Go to Course Content"
   icon_pack = "fas"
-  icon = "fa-play"
+  icon = "play"
   
 #[cta_alt]
  #url = "docs/"
