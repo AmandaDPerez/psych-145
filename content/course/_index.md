@@ -2,24 +2,6 @@
 title: Syllabus
 type: book  # Do not modify.
 ---
-<style>
-/* Simplified version of Bootstrap's responsive table CSS */
-.table-responsive {
-    display: block;
-    width: 100%;
-    overflow-x: auto;
-}
-
-.table-responsive > table {
-    width: 100%;
-}
-</style>
-
-<div class="table-responsive">
-  <table class="table">
-    ...
-  </table>
-</div>
 
 Welcome to Psych 145, taught in Spring 2021 by Professor Amanda D. Perez. Here you will find all course content (chapter notes & lecture recordings) organized by chapter.
 
