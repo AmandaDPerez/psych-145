@@ -44,14 +44,14 @@ Office Hours will be done via signs-ups (link on Piazza). All communication will
 |3 |Inductive Reasoning  (ch 3)|PT Essay 1 (02/13)|
 |4 |<b>EXAM</b>|<b>Exam 1 (CH 1-3; 02/20)</b>|
 |5 |CT & Scientific Reasoning (ch 4)|PT Essay 2 (02/27)|
-|6 |Pseudoscience (ch 5)|Video response Bill Nye (03/06)|
+|6 |Pseudoscience (ch 5)|Video response </br>Bill Nye (03/06)|
 |7 |Errors & Thinking (ch 6)|PT Essay 3 (03/13)|
 |8 |CT & The Internet  (ch 8)|   |
 |9 |<b>EXAM</b>|<b>Exam 2 (CH 4-6, 8; 03/27)</b>|
 |10 |<b>SPRING BREAK</b>| |
 |11 |Analyzing a Psychological Question (ch 10)|  |
 |12 |<i>Catch-up week (no new content)</i>|PT Essay 4 (04/17) |
-|13 | Superstition & Magic (ch 12)  |Video response Astrology (04/24)|
+|13 | Superstition & Magic (ch 12)  |Video response </br>Astrology (04/24)|
 |14 |CT in Clinical Reasoning (ch 13)||
 |15 |CT, Language, and Writing (ch 14)|PT Essay 5 (05/08)|
 |16 |<i>Catch-up week (no new content)</i>||
