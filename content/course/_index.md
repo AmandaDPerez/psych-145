@@ -53,7 +53,7 @@ There are 100 points in this class. Your grade in the class will be based on the
  
  <b> Video Responses (6 points, 2 each) </b>
  
- <b> Participation (26 points)
+ <b> Participation (26 points)</b>
   
 ### Exams
 There will be a total of 3 Exams administered via canvas quizzes. They will be based on material from lectures and readings and will consist of multiple choice questions and occasionally some short answers. The exams are not cumulative and will only cover new untested material. I have a strong belief in rewarding growth and improvement. Therefore, your 3 exams will be weighted such that your higher scoring exams will be worth more. Exams are open-notes, open-book, and un-timed. 
