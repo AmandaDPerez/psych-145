@@ -37,7 +37,7 @@ Office Hours will be done via signs-ups (link on Piazza). All communication will
 
 ## Schedule
 
-|`   Week`| Lecture Topics   |Due Saturday 10PM   |
+|&nbsp;Week&nbsp;| Lecture Topics   |Due Saturday 10PM   |
 |---|---|---|
 |1         |Intro to CT (ch 1)|   |
 |2 |Deductive Reasoning, Prediction,</br> and Assumptions (ch 2)|Video response </br>John Oliver (02/06) |
