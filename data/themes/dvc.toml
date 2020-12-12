@@ -5,11 +5,11 @@ name = "dvc"
 light = true
 
 # Primary
-primary = "#007434"
+primary = "#007451"
 
 # Menu
-menu_primary = "#007434"
-menu_text = "#34495e"
+menu_primary = "#007451"
+menu_text = "#eafff9"
 menu_text_active = "#84b29c"
 menu_title = "#2b2b2b"
 
