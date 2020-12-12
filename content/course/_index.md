@@ -39,3 +39,12 @@ Office Hours will be done via signs-ups (link on Piazza). All communication will
 |16 |<i>Catch-up week (no new content)</i>||
 |17 |<b>EXAM</b>|<b> Exam 3 (CH 10, 12-14) </b>|
 
+## Grade Details
+There are 100 points in this class. Your grade in the class will be based on the following (a summary of these components is on the next page). Final grades will not be curved; letter grades will be based on rounded cutoffs (A > 88 > B > 78 > C > 68 > F). 
+
+<b> Exams (53 points) </b>
+<ul>
+  <li> 20 points Highest Scoring Exam </li>
+  <li> 18 points Middle Scoring Exam </li>
+  <li> 15 points Lowest Scoring Exma </li>
+  </ul>
