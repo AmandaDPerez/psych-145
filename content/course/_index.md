@@ -21,19 +21,19 @@ Office Hours will be done via signs-ups (link on Piazza). All communication will
 
 |Week   | Lecture Topics   |Due Saturday 10PM   |
 |---|---|---|
-|1   |   |   |
-|2   |   |   |
-|3   |   |   |
-|4   |   |   |
-|5   |   |   |
-|6   |   |   |
-|7   |   |   |
-|8   |   |   |
-|9   |   |   |
-|10   |   |   |
-|11   |   |   |
-|12   |   |   |
-|13   |   |   |
-|14   |   |   |
-|15   |   |   |
-|16   |   |   |
+|1|Intro to CT (ch 1)|   |
+|2|Deductive Reasoning, Prediction, and Assumptions (ch 2)|   |
+|3|Inductive Reasoning  (ch 3)|   |
+|4|<b>EXAM</B>|   |
+|5|CT & Scientific Reasoning (ch 4)|   |
+|6|Pseudoscience (ch 5)|   |
+|7|Errors & Thinking (ch 6)|   |
+|8|CT & The Internet  (ch 8)|   |
+|9|<b>EXAM</b>|   |
+|10|Analyzing a Psychological Question (ch 10)|   |
+|11|<i>Catch-up week (no new content)</i>|   |
+|12|Superstition & Magic (ch 12)|   |
+|13|   |   |
+|14|   |   |
+|15|   |   |
+|16|<b>EXAM</b>|   |
