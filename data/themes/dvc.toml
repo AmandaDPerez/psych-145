@@ -5,7 +5,7 @@ name = "dvc"
 light = true
 
 # Primary
-primary = "#017535"
+primary = "#148245"
 
 # Menu
 menu_primary = "#fff"
