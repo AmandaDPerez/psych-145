@@ -48,3 +48,18 @@ There are 100 points in this class. Your grade in the class will be based on the
   <li> 18 points Middle Scoring Exam </li>
   <li> 15 points Lowest Scoring Exma </li>
   </ul>
+  
+ <b> PT Essays (15 points, 3 each) </b>
+ 
+ <b> Video Responses (6 points, 2 each) </b>
+ 
+ <b> Participation (26 points)
+  
+### Exams
+There will be a total of 3 Exams administered via canvas quizzes. They will be based on material from lectures and readings and will consist of multiple choice questions and occasionally some short answers. The exams are not cumulative and will only cover new untested material. I have a strong belief in rewarding growth and improvement. Therefore, your 3 exams will be weighted such that your higher scoring exams will be worth more. Exams are open-notes, open-book, and un-timed. 
+
+### Practical Thinking (PT) Essays
+PT exercises will help  assess your knowledge and ability to apply new concepts and develop specifically targeted skills. They will also provide you with a wide variety of CT tasks intended to help you learn how to think like a psychologist. Finally, these PT exercises will allow for critical reading and analysis of discussions related to fascinating psychological questions. There are a total of 5 PT Essays due throughout the course. You will submit each PT Essay via a word document or PDF on Canvas assignments.
+
+### Videos
+Ihave selected 3 videos (John Oliver on Scientific Studies, Bill Nye, & Astrology on Pseudoscience) to accompany week 1, week 6, and week 12, respectively.  You are to watch the videos and submit a response (few sentences) on Canvas assignments.
