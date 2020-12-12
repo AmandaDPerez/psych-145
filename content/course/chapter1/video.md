@@ -8,17 +8,6 @@ weight: 2
 ---
 
 <div class="iframe-container" style="overflow: hidden; padding-top: 56.25%; position: relative;">
-    	<iframe style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;" src="https://4cd.zoom.us/rec/share/u-ItI7PszWJIAbOd60TjYaM8QaG1X6a81SgY-6EOzx2PZxJk017wklITIfwdyYvD" frameborder="0"></iframe>
+    	<iframe  sandbox="allow-forms allow-scripts" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;" src="https://4cd.zoom.us/rec/share/u-ItI7PszWJIAbOd60TjYaM8QaG1X6a81SgY-6EOzx2PZxJk017wklITIfwdyYvD" frameborder="0"></iframe>
 </div>
 
-<script>
-    var iframe = document.getElementById('ifra'),
-        doc = iframe.contentDocument || iframe.contentWindow;
-    if (doc.document) doc = doc.document;
-    var _timer = setInterval(function() {
-        if (doc.readyState == 'complete') {
-            clearInterval(_timer);
-            alert('iframe ready');
-        }
-    }, 1000);
-</script>
