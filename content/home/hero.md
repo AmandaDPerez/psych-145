@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Psych 145 Course Site"
+title = "Psych 145"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "book.svg"
+hero_media = "book_white.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
