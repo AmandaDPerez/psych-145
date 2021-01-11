@@ -1,18 +1,18 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
+linktitle: Chapter 3
+summary: CT Chapter 3
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 3
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+## Inductive Reasoning
 
 Who believes that the moon affects behavior?
 
