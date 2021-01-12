@@ -1,156 +1,319 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
+linktitle: Chapter 5
+summary: CT Chapter 5
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 5
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+## Pseudoscience: Why Study It?
+**Pseudoscience** makes false claims and masquerades as real science.
 
-Who believes that the moon affects behavior?
+Pseudoscience can have dangerous outcomes.
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+### Pseudoscience Is Dangerous
+In 2000, Candace Newmaker was having trouble adjusting to her adoptive mother; she was having behavioral problems.
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+Two unlicensed social workers, Julie Ponder and Connell Watkins, treated Candace with attachment therapy. 
 
-Psychiatric admissions do not increase during a full moon.
+The Outcome: Candace was forced to try to slide through a blanket wrapped around her to simulate birth. She cried, vomited, urinated, and said she couldn't breathe. After about an hour of this ordeal, she died of suffocation. 
 
-A full moon does not lead to more suicides.
+#### Attachment Therapy Assumptions
+Candice's caregivers believed that having her go through a simulation of the birthing process would attach her to her new caregiver.
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+These are *unwarranted assumptions*, ones not supported by evidence.
 
-### Where do our opinions come from?
+#### What Are the Ethical Implications?
+The APA ethical guidelines say psychologists should do no harm.
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+They should use practices that are effective and not use pseudoscientific and ineffective ones.
 
-Many of your ideas come from your culture and from personal experience.
+#### Attachment Therapy as Thinking Error
+People who believe in attachment therapy are inappropriately using reasoning by representativeness or *"like goes with like."*
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+They think that a person who is not attached should go through something that looks like birthing to become attached.
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+#### Attachment Therapy Is Pseudoscience
+**"Pseudo"** means false: It looks like science, but it is not really science.
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+Pseudoscientific practices do not follow the rules of good science.
 
-**Reflective thinking** refers to thinking about thinking.
+Scientific research has not shown attachment therapy to be effective, but its practitioners still claim it is.
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+## Why Did the Romans See Libra?
+[Romans saw Libra in the stars](https://www.space.com/21597-libra-constellation.html). 
 
-This is what we do when we reason about the truth of statements.
+Their culture probably influenced what they saw from their myths.
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+Libras are thought to be balanced, intelligent, and diplomatic, but gullible and indecisive.
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+Psychologically, the identification of Libra shows **pareidolia:** the influence of knowledge and expectation on perception.
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+## Assumptions of Astrology
+The pattern of stars corresponding to the time of your birth determines the traits you have and the course of your life. 
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+Astrologers can use this information to make predictions about your life and offer guidance. 
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+The astrological predictions in horoscopes are so general that they would be hard to test objectively in a specific context.
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+The general predictions in horoscopes could be easily explained away when they fail.
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+Example Horoscope:
+*It is important to you that people like you and that they admire you for who you are. Sometimes, though, you tend to be more critical of yourself than other people are. While people may perceive you as confident of yourself on the outside, on the inside you are somewhat insecure. At times, you try very hard to reach your goals, but you have much unused potential. Changes and events are coming up in the near future that will present unique opportunities for you. Because of your personality characteristics, it is important that you watch for these opportunities so that you will not miss them. *
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+### Barnum Effect
+People tend to accept general personality descriptions, but they are not predictive. 
 
-## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+This uncritical tendency of people to accept general descriptions that do not really describe them has been termed the **"Barnum effect"** after the circus entrepreneur's expression, "We've got something for everyone" (Meehl, 1956).
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+### Checking Outcomes
+Astrologers do not systematically check the outcomes of their predictions.
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+Astrologers tend to pay more attention to evidence supporting their predictions, while ignoring their failures.
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+### General Rules of Reasoning
+Astrologers incorrectly use general rules of reasoning to evaluate claims and hypotheses. 
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+They often use logical criteria inappropriately, such as when they say, *"Science has not been able to disprove astrology,"* to reverse the burden of proof.
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+They fail to reject their theory when scientific research has not supported astrological predictions.
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
+## Implausible Claims
+**Scientific plausibility** is how *reasonable* we judge a claim to be, given other things we know in science.
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
+### Obscure Terminology
+Astrologers use obscure terms, such as "sun signs," "the seventh house," "horoscopes," and "zodiac."
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
+Astronomers, physicists, psychologists, and other scientists do not use these terms in their theories.
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
+### Could physics or astronomy explain astrology?
+Is there something special about the light from certain stars, planets, and the moon that might affect the human body at the time of one's birth?
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
+**No**, light is light. The light from one star or planet at a particular time is not much different from other patterns of light.
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
+**Astrology is implausible**
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
+## Alchemy
+**Alchemy** is a mystical approach to combining substances or transmuting them into gold.
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
+Since alchemists discovered many principles that later informed chemistry, it can be considered a "proto-science."
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
+## Mesmerism
+**Mesmerism** resembles the modern technique of hypnosis. 
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
+Mesmer would tell patients that he had magnetized water, and some patients fainted.
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
+Through an investigation on mesmerism, some scientific principles were first developed.
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
+### Investigation of Mesmerism
+**Placebo control:** Researchers told subjects they had magnetized water through mesmerism but they hadn't; even so, people said they felt the effects. 
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
+**Blind testing:** Without telling subjects, researcher magnetized some water samples but not others; subjects could not tell which was which. 
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
+## Modern Pseudoscience 
+Modern science is often highly technical and requires an understanding of technology. 
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
+Pseudoscience goes through the motions of scientific practices without the technology of science. 
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
+## Parapsychology
+**Paranormal** refers to phenomena that seem to defy scientific explanation.
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+**Parapsychology** is the supposedly scientific study of the paranormal.
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+### Parapsychology as Pseudoscience
+Psychic predictions are vague and general. Often, they are supported by low-quality evidence such as personal experience and anecdotes. 
+
+Post hoc explanations try to explain away negative findings. This strategy makes parapsychology unfalsifiable. 
+
+Some believers engage in reversing the burden of proof, and arguing from possibility.
+
+Many studies have failed to support the existence of ESP, but many parapsychologists continue to believe in it anyway.
+
+Parapsychology is inconsistent with physics and scientific study of perception.
+
+It is often supported by low-quality evidence and not supported by high-quality scientific research. 
+
+## Evidence-Based Treatments
+**Evidence-based treatments (EBTs)** are treatments for psychological problems whose effectiveness is validated through high-quality scientific research. 
+Behaviorism took a careful, systematic, often experimental approach to observing and modifying behavior, and in developing effective treatments such as systematic desensitization to treat phobias.
+
+### Scientist-Practitioner Model
+**Scientist-practitioner:** Clinicians should be good scientists. 
+
+They should be trained to think like a scientist and engage in scientific practices.
+
+### Efficacy Research
+**Efficacy research:** Clinicians should do high-quality research to discover which psychotherapies are the most effective for treating a problem. Then clinicians should use these effective therapies.
+
+### Randomized-Trial Experiment
+Experimenters randomly assign clients with a certain psychological disorder to an experimental therapy and a control condition. 
+
+Comparing the two groups, experimenters can see that the observed effect was due to the treatment. 
+
+### Placebos
+**Placebo control group:** People receive something that looks like a real therapy to control for the expectancy of getting a treatment.
+
+**Placebo effect:** People report feeling better when they receive what looks like real treatment. 
+
+### Wait List 
+**Wait list control group:** Participants are told they need to wait to get a treatment. At the same time as the treatment group, the wait list control group is tested before and after therapy.
+
+This controls for spontaneous remission, or patients getting better because time has passed without treatment.
+
+## Is Freudian Psychoanalysis Pseudoscientific?
+Adler showed that Freud's ideas were not falsifiable. Also, the theory of the unconscious motives is hard to test.
+
+Freud was very resistant to criticism of his theory and may have shown a confirmatory bias in interpreting dreams and cases.
+
+Freudian psychoanalysis has not been revised, though it has been shown to be less effective than other approaches. 
+
+Freud used low-quality evidence such as case studies of poor quality. Very little experimentation was done on the effectiveness of psychoanalysis.
+
+## Scientology
+Though it pretends to be scientific, Scientology does not systematically test the outcomes of its predictions.
+
+It lacks connection to other sciences.
+
+It is implausible; Scientology is based on science fiction myths.
+
+Scientology is supported by low-quality evidence such as poorly documented cases and statements of celebrities, such as Tom Cruise, who know little about science.
+
+Scientology uses unconventional terms, such as referring to counselors as "auditors."
+
+## Power Therapies
+**Thought Field Therapy** claims that tapping at specific points on the head can release blocked energy that causes psychological problems.
+
+It boasts a very high success rate for many different kinds of disorders.
+
+It claims it can be effective in just one or two treatment sessions.
+
+These claims make it implausible.
+
+## Self-Help Books
+A market survey showed that the people who were most likely to buy a self-help book were the people who had bought such a book in the last 18 months.
+
+There is not much research about self-help, and the research results that do exist are mixed.
+
+For these reasons, it is impossible to tell if self-help books are actually helpful. 
+
+### Positive Thinking
+Many self-help techniques were created around positive thinking. 
+
+One such approach, *The Secret*, claimed that life is governed by the **law of attraction**, meaning that people who think positive thoughts will attract positive outcomes. 
+
+#### The Secret
+James Arthur Ray, a proponent of The Secret, had followers go through a sweat lodge ceremony to help them avoid fear of death.
+
+One such ceremony resulted in 18 people being hospitalized and 3 people dying from being denied water. Ray was convicted of three counts of negligent homicide.
+
+## Alternative Medicine
+**Alternative medicine** uses natural remedies that have been unchanged for centuries.
+
+It is mostly untested in a rigorous fashion and unregulated in the United States. 
+
+These medicines often claim to be clinically proven, but have been only minimally tested.
+
+## Magnet Therapy
+One alternative medicine, known as **magnet therapy**, claims that magnets placed near the body can reduce pain, promote well-being, and even cure cancer.
+
+Research has shown that magnets on the body have no effect. 
+
+Experiments comparing magnet treatments to placebos have not shown that the magnets have clear benefits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
