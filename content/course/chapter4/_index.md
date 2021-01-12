@@ -1,156 +1,268 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
+linktitle: Chapter 4
+summary: CT Chapter 4
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 4
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+## CT & Scientific Reasoning: Methods of Science
 
-Who believes that the moon affects behavior?
+Science is an empirical approach that relies on verifiable observations.
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+Science has built-in checks on the quality of data, which helps science to be self-correcting.
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+Science uses high-quality research studies, primarily based on inductive reasoning.
 
-Psychiatric admissions do not increase during a full moon.
+Science seeks to find lawful relationships between variables based on observable data.
 
-A full moon does not lead to more suicides.
+A **variable** is a characteristic that can take on different values.
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+A relationship between two variables occurs when the scores on one variable change consistently with scores on the other variable (variation).
 
-### Where do our opinions come from?
+### How Scientists Study Variables 
+Scientists operationalize the variables they study in terms of the methods, procedures, and measurements. 
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+*Example: A social psychologist wants to study helpfulness. They could operationalize helpfulness as a participant's self-report to the question "I consider myself helpful"* 
 
-Many of your ideas come from your culture and from personal experience.
+### What Is a Hypothesis?
+A **hypothesis** is a statement that makes a prediction about the relationship between two or more variables. 
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+*Example: Based on social learning theory, a group observing a helping model will engage in more helping behavior than a group not observing the helping model.*
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+## Hypotheses Predict Relationships
+Hypotheses predict two basic kinds of relationships between variables:
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+* Relationships that show *association*
+* Relationships that show *causation*
 
-**Reflective thinking** refers to thinking about thinking.
+### Predicting an Association
+*Example: When people feel more anxious. they smoke more cigarettes.*
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+These two variables are varying together or covarying. 
 
-This is what we do when we reason about the truth of statements.
+This kind of hypothesis **does not** predict that one variable causes the other to change, just that as one changes the other will change along with it.
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+**Correlation does not equal causation.** 
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+### Causal Predictions
+*Example: If people study more, then this causes them to learn more than people who do not study as much.*
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+These two variables are more than just associated.
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+One variable (the cause), which goes first, leads to changes in a second variable that follows it (the effect). 
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+### Scientific Hypotheses Are Testable
+A testable hypothesis is one for which observations can be made and agreed upon by observers. 
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+The question, "How many angels can dance on the head of a pin?" is not testable.
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+We can test the question "How many people believe in angels-for example, 10%, or 30%?" because we can observe people's behavior.
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+### Scientific Hypotheses Are Falsifiable
+A *falsifiable hypothesis* is one that can be shown to be wrong or false; therefore, it can be disconfirmed.
 
-## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+*Example: According to the drive theory of aggression, if one group observes a violent hockey game and a second group observes a gymnastics competition, then the group watching the violent hockey game will behave less aggressively.*
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+This is falsifiable and has been disconfirmed.
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+#### Falsifiability Allows Science to Be Self-Correcting
+Unless a hypothesis can be shown to be false, it cannot be rejected. This allows scientists to find out whether their ideas are incorrect, and then to correct them if necessary.
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+#### Do Not Make Excuses for Failed Predictions
+Explaining away a failed prediction can make it impossible to disconfirm a hypothesis.
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+This makes the hypothesis unfalsifiable.
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+## Criteria for Showing Causation
+Show **covariation:** The values of two variables can be shown to vary together, as in correlation or association.
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
+Show **time-order:** We have to be able to show that changes in the variable that is the "cause" happen first and changes in the "effect" occur afterward.
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
+Eliminate **plausible alternative explanations:** We must control for extraneous and confounding variables.
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
+## Different Study Types
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
+### Case Study Definition and Example 
+A **case study** is a research design that provides a detailed description of part of a person's life, documenting a person's abilities, traits, symptoms, behaviors, and other characteristics. 
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
+Examples: Sigmund Freud and other clinicians have conducted case studies of many people with psychological problems. Broca did a case study of Leborgne (Tan). 
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
+#### Strengths and Weaknesses
+A case study provides much information about one person and may inform us about a person with special or rare abilities, knowledge, or characteristics. 
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
+However, the findings may be unique and hard to replicate, and they may not generalize to other people.
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
+**A case study also cannot show cause and effect.**
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
+### Naturalistic Observation Definition and Example
+**Naturalistic observation** is a kind of study in which observation is made in the field or natural environment.
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
+Example: Balch and Taylor conducted a participant-observer study-that is, a field study in which they secretly infiltrated the Heaven's Gate group to study their beliefs as they interacted with members.
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
+#### Strengths and Weaknesses
+Naturalistic observation allows observations to be readily generalized to the real world. They can be a source of new hypotheses. 
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
+However, this method allows little control of extraneous variables.
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
+It cannot test treatments.
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
+**It cannot show cause and effect.**
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
+### Survey Research Definition and Example
+Questionnaires, opinion polls, and other surveys can pose a variety of questions to study participants. 
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
+Example: The Gallup Poll periodically asks a random sample of people about their beliefs in the paranormal, such as belief in ghosts, haunted houses, and telepathy. 
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+#### Strengths and Weaknesses
+Survey research allows economical collection of much data and allows for study of many different questions at once. 
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+However, it may have the same problems as other self-report data, such as dishonesty, forgetting, and misrepresentation of oneself.
+The results may be unrepresentative if there is selection bias.
+
+### Selection Bias
+People self-select into a study by volunteering to be in it, by showing up, and by staying in the study.
+
+Such studies will not be representative because they do not include the responses of people who refuse to participate. Therefore, it is difficult to generalize from such a sample to the population. 
+
+### Correlational Studies
+
+**Correlational studies** allow us to study the strength of a quantitative relationship between variables.
+
+Correlations range from r = -1.00 to 0.00 to +1.00.
+The larger the absolute value of the number, the stronger the association or correlation of the variables.
+
+Correlations close to -1.00 or to +1.00 are very strong. Correlations close to 0.00 are very weak.
+
+#### Direction of Correlations 
+In a **positive** relationship, scores go in the same direction. Thus, as one increases, the other increases. For example, the more a person studies, the more he or she will recall.
+
+In a **negative** relationship, scores on two variables go in the *opposite* direction. Thus, as one increases, the other decreases. For example, the more a person studies, the fewer errors he or she will have in recalling the information. 
+
+#### Illusory Correlations
+People often find an **illusory correlation**, a thinking error in which they mistakenly perceive a relationship (correlation) between two variables when none exists.
+
+*Example: A football fan believes that every time he wears a specific jersey his team wins, so each time they play, he will only wear that jersey.*
+
+#### Calculated Correlation
+In scientific studies, correlation is calculated.
+Scientific studies systematically observe whether variables are changing together. 
+
+Calculating the correlation helps us to avoid illusory correlations. 
+
+#### Confirmation Bias
+Once people believe there is a relation, even an illusory correlation, they may look for evidence that supports their favored position and ignore evidence not supporting it. This is called **confirmation bias**.
+
+#### Correlational Studies
+Correlational studies allow researchers to calculate the strength and 	direction of relations between variables.
+
+They can be used to make predictions.
+
+**They cannot test treatments or show cause and effect.**
+
+### Quasi-experiments Definition and Examples 
+**Quasi-experiments** look like true experiments because they often involve comparing groups, but the groups already differ and are not formed through random assignment, as in true experiments.
+
+*Examples: comparing males to females, or clinically depressed people to people with normal mood, or introverts to extroverts*
+
+#### Strengths and Weaknesses
+Quasi-experiments allow comparison of treatment groups and allow some control over extraneous variables.
+
+However, they do not have random assignment of participants or much control over subject variables.
+
+**They also cannot show cause and effect.**
+
+### True Experiment Definition
+A **true experiment** is a study in which:
+
+* An independent variable is manipulated.
+* A dependent variable is measured.
+* Extraneous variables are controlled through random assignment and other control procedures. 
+
+#### Strengths and Weaknesses
+A true experiment allows manipulation of treatment conditions, random assignment, and much control of extraneous variables. 
+
+**It can show cause and effect.**
+
+However, a true experiment cannot manipulate and test some variables.
+
+They may control variables and conditions so much that they become artificial and not like the "real world."
+
+## Does Study Time &#8594;  Learning?
+**Independent variable:** The experimenter manipulates study time, 10 minutes versus 5 minutes (cause).
+
+**Dependent variable:** Measures how many words subjects can recall out of 50 studied (the effect).
+
+**Control:** Randomly assign subjects to the two groups; this tends to balance out or control individual differences. 
+
+### How Does the Study Time Experiment Meet the First Criterion of Causation?
+**Covariation:** Two variables have to be changing together or covarying consistently.
+
+The independent variable (study time) is manipulated and the dependent variable (number of words recalled) are measured close together in time and in the same context so they can change together. 
+
+### How Does the Study Time Experiment Meet the Second Criterion of Causation?
+**Time-order:** One variable (the cause) must occur before the other variable (the effect).
+
+The manipulation of the independent variable (amount of study time) happens before the dependent variable (how many words can be recalled) is measured, so that the change in study time can cause changes in the number of words recalled.
+
+### How Does the Study Time Experiment Meet the Third Criterion of Causation?
+**Elimination of plausible alternative explanations:** Must be able to show that no other variable led to the changes in the other variable thought to be the effect.
+
+Random assignment to study time groups and other controls allow the experimenter to show that it was the independent variable (study time) and no other variable that caused the changes in the dependent variable (number of words recalled).
+
+### Benefits of a True Experiment
+
+True experiments allow for causal explanations when they have been conducted properly and have included the appropriate controls.
+
+But do they provide enough support to conclude that some variable is causing the changes in another variable? 
+
+## Causal Reasoning Errors: 
+### Part 1
+Confusing correlation with causation: saying that some variable is causing changes in another variable when it is merely correlated or related to the other variable.
+
+*Example: There is a correlation between childhood abuse and subsequent abuse, but having been abused does not cause a person to later abuse someone else. *
+
+### Part 2
+**Post hoc, ergo propter hoc (after this, therefore because of this)** reasoning: concluding that a second event was caused by a first event when it only followed it.
+
+Often, the focus on identifying a cause occurs "after the fact"-when someone observes that something happened and notices that some other event went before it and wrongly infers that the event that occurred first was the cause.
+
+## Scientific Thinking as Problem Solving
+A problem exists when there is an obstacle between the initial state of not knowing how to solve a problem and the goal of solving it.
+
+A scientist has a hypothesis, but does not know how best to test it: This presents a problem.
+
+**The scientist must use critical thinking to solve the problem.**
+
+To solve some scientific problems, scientists must think in new and useful ways. 
+
+For example, they may propose new hypotheses, make new tools, and develop new ways to conduct their research. 
+
+Creative thinking is like problem solving.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
