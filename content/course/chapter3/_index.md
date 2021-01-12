@@ -14,143 +14,223 @@ type: book  # Do not modify.
 
 ## Inductive Reasoning
 
-Who believes that the moon affects behavior?
+Scientists use inductive reasoning to generalize *from* evidence to draw well-reasoned conclusions from questions
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+Specific cases &#8594; generalization
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+People generalize from personal experiences to conclude that psychic prediction is real: "I once had a dream that came true."
 
-Psychiatric admissions do not increase during a full moon.
+* Dream came true (case) &#8594; I'm psychic
 
-A full moon does not lead to more suicides.
+People use induction to predict events: "It will probably rain today because it has all week."
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+* Rain all week (cases) &#8594; rain today (event)
 
-### Where do our opinions come from?
+## Plausibility
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+**Plausibility** is how reasonable we judge a claim to be, given other things we know. We are generalizing from our previous knowledge to make a judgment about **how likely** a claim is to be true.
 
-Many of your ideas come from your culture and from personal experience.
+For psychological questions, we often use what psychology and other sciences suggest will be true.
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+*Is knowing the future before it happens plausible or implausible?*
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+### Predicting the Future
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+Predicting the future is **implausible** because we assume that:
 
-**Reflective thinking** refers to thinking about thinking.
+* Cause (physical event occurs) leads to effect (our physical nervous system perceives it). 
+* NOT: Effect (our physical nervous system perceives it) occurs before the cause (physical event occurs).
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+#### Lee Fried's Amazing Prediction
+Lee Fried, a student, told Duke's president that he predicted an important event that would happen in the upcoming week and put it in a sealed envelope. 
 
-This is what we do when we reason about the truth of statements.
+The envelope was not to be opened until the end of the week.
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+The note inside described a jumbo jet crash that would kill hundreds of people, an unlikely event that had actually occurred that week. 
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+### Guarding Against Deception
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+Carefully examine claims, especially extraordinary ones.
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+Look for plausible explanations first, before jumping to a less plausible conclusion.
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+Some kinds of evidence, such as personal experience, may not provide good support for a claim. 
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+### Plausibility Is Useful
+Plausibility *is useful* when making an initial judgment about how reasonable a claim appears to be, based on accurate knowledge. 
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+*It is not useful* when adequate knowledge does not exist. 
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+Plausibility judgments depend on the state of our knowledge. For example, some things that were once implausible, such as space travel, are now scientifically plausible.
+
+### The Limits of Inductive Reasoning
+Philosopher/psychologist William James noted that if we wanted to know "What color are crows?" we might observe 1,000 crows and note their color as black.
+
+But what if the 1,001st crow we observed was white? *Observing one white crow is enough to disprove the conclusion that all crows are black.* 
+
+#### Acknowledging the Limits of Induction
+We cannot be certain all crows are black through inductive reasoning.
+
+We cannot prove a claim or conclusion is true through induction.
+
+*We can still generalize and conclude that most crows are black.*
+
+## Drawing an Inductive Conclusion
+We can decide whether some claim is probably true. 
+
+The evidence we acquire is not definitive, but we reason to a conclusion from the highest-quality evidence available.
+
+### What Makes a Strong Inductive Conclusion?
+The strongest inductions are supported by the highest-quality evidence and not refuted by any other high-quality evidence.
+
+We evaluate the quality of the evidence on two or more sides and evaluate it.
+
+This raises the question of what makes one kind of evidence higher quality than another. 
+
+#### Standards of Evidence
+Rules, principles, and criteria are used in deciding how good some kind of evidence is.
+
+For example, scientists value scientific research and evidence more highly than they value nonscientific evidence. 
+
+In contrast, in everyday, nonscientific applications of inductive reasoning, people use much less formal rules. 
+
+### Nonscientific Sources of Evidence
+**Nonscientific sources of evidence** (such as personal experience, anecdotes, commonsense belief, and nonscientific authority) are based on informal observations/experiences and opinions of people.
+
+Because they are not based on careful, systematic, and more objective observations, as are scientific sources, they provide much weaker support than is provided by scientific sources. 
+
+#### Personal Experience
+
+* Personal experience is a type of nonscientific evidence in which someone reports of his or her own experience, often in the form of testimonials and introspective self-reports, as evidence.
+* It tells what a person may be feeling, experiencing, or aware of at the time.
+* People can identify with personal experience because it is compelling and vivid. 
+
+**Personal Experience: Weaknesses**
+
+* Personal experience is often subjective, biased, and prone to perceptual and other cognitive errors.  
+* This can make personal experience inaccurate.
+* It may be unreliable because people are often unaware of the unconscious reasons for their behaviors and experiences.
+
+#### Perceptual Illusions
+**Perceptual illusions** can make personal experience inaccurate.
+
+**Illusions** are systematic errors in perception, such as the [Mueller-Lyer illusion](https://www.illusionsindex.org/ir/mueller-lyer).
+
+#### Naive Realism 
+People show **naive realism** by believing that they accurately perceive the world, just as it really is.
+
+An common phrase that demonstrates naive realism is "Seeing is believing."
+
+Due to naive realism, people assume that what they perceive is accurate, real, and trustworthy, even when it is not. 
+
+#### Anecdotes
+**Anecdotes** are a type of personal experience that share a story or example, often biographical, to support a claim.
+
+An anecdote might begin, "I know someone who . . . ."
+
+**Strengths:** Anecdotes can vividly illustrate an ability, trait, behavior, or situation with a real-world example.
+
+**Weaknesses:** Anecdotes are not based on careful, systematic observation and may be unique, may not be repeatable, and may not generalize to many people. 
+
+#### Commonsense Beliefs
+**Commonsense beliefs** are informal beliefs and folk theories commonly assumed to be true.
+
+They often take the form of "You know what they say . . ." or "Everyone knows that . . . ."
+
+These consensus of opinion or popular views are then used as evidence for accepting a claim.
+
+**Weaknesses:** Commonsense beliefs are not based on careful, systematic observation. They may be biased by cultural and social influences and often go untested.
+
+#### Statements of Authority
+Statements of authority are cited or offered in support of a claim by someone who is thought to be in a position to know about the claim.
+
+They are frequently used as evidence in both everyday and scientific arguments. 
+
+In scientific arguments, a good statement of authority is backed up by research studies. 
+
+**Strengths:** These statements may be true when the authority has relevant knowledge or expertise.
+They are convenient because acquiring one's own knowledge and expertise takes a lot of time.
+However, these statements can be misleading when the presumed authority does not have relevant knowledge or expertise, or when that source is biased.
+
+## Quantity and Quality of Evidence
+Quantity of the evidence (how much)
+
+* Number of studies supporting each side
+* Sizes of the samples in the studies 
+
+Quality of the evidence (how good it is)
+
+* Kind of evidence (scientific versus nonscientific)
+* How well done the scientific studies were
+
+### What Makes a Good Theory?
+A good theory is supported by more high-quality evidence and, therefore, is better justified.
+
+It can explain more and allows for better predictions because it is consistent with more high-quality evidence than are other theories.
+
+#### Science Versus Nonscience
+Science is an approach to knowledge and inquiry that should involve good reasoning about the meaning of carefully and systematically made observations.
+
+Nonscientific approaches are informal, paying less attention to good reasoning and the quality of observations.
 
 ## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+### Thinking Errors Related to Generalization
+**Hasty generalization:** Drawing a general conclusion too rapidly, before sufficiently considering all the relevant evidence. 
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+**Sweeping generalization:** Drawing a conclusion that is too wide or goes well beyond what the evidence implies, such as over-interpreting a study's findings. 
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+### Thinking Errors Related to Relevance
+**Red herring fallacy:** Deliberately side-tracking an argument away from the issue using irrelevant information or reasons. 
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+Red Herring Example:
+**Interviewer:** "Senator Snide, why did you continue to support the Iraq War when it was discovered that Iraq had no weapons of mass destruction?"
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+**Senator Snide:** "I have always been a patriot and staunch supporter or our country." 
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+Snide's self-avowed patriotism is irrelevant to the question of why the senator supported continuation of the Iraq War.
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
