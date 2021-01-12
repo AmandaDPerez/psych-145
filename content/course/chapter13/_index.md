@@ -1,156 +1,172 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
-weight: 1
+linktitle: Chapter 13
+summary: CT Chapter 13
+weight: 30
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 13
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+# CT in Clinical Reasoning
+## Concepts of Normal Behavior 
+Normal is statistically average, typical behavior that conforms to sociocultural expectations.
 
-Who believes that the moon affects behavior?
+Normal is a low standard because normal people start fights, bully others, lie, and engage in other antisocial behaviors. 
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+## Other Concepts of Abnormal Behavior 
+Abnormal behavior is:
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+* Objectionable, morally deficient behavior
+* Unusual/bizarre/strange/aberrant behavior
+* A sign of mental illness (medical model)
 
-Psychiatric admissions do not increase during a full moon.
+## Use the "MAD" Acronym
+To decide if a person likely has a serious psychological problem
 
-A full moon does not lead to more suicides.
+| Is the person's behavior: |
+|-|
+| **Maladaptive?** Does the person's behavior bother other people, interfere with his or her functioning, or get in the way of his or her effectiveness in adaptively responding to stimuli in the environment? |
+| **Abnormal?** Is the behavior very unusual, excessive, and of long duration in ways that cannot be attributed to the context in which it appears? |
+| **Distressing?** Does the person find his or her behavior bothersome, making life unpleasant or troubled? |
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+## Diagnostic and Statistical Manual of Mental Disorders
+To answer these questions, we use a system for assigning people to categories of disorders.
 
-### Where do our opinions come from?
+Categorizing people involves putting them in one group (disorder) versus another using diagnostic features, signs, or symptoms.
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+The Diagnostic and Statistical Manual of Mental Disorders (DSM) uses criteria and decision rules to assign a classification and label (diagnosis) to mental disorders. 
 
-Many of your ideas come from your culture and from personal experience.
+### The Most Commonly Diagnosed Mental Disorders 
+Nearly 20% are diagnosed with a substance abuse disorder. 
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+More than 15% are diagnosed with depression.
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+### Approach to Mental Disorders
+DSM organizes mental disorders into categories. It makes **qualitative** distinctions between people who have specific mental disorders and those who do not.
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+It assumes that certain symptoms cluster together and have a characteristic course or outcome, forming a **syndrome**, which underlies the mental disorder.
 
-**Reflective thinking** refers to thinking about thinking.
+### Approach to Diagnosis
+The particular clusters of signs, symptoms, and behaviors differentiate one disorder from another.
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+If someone has a designated number of certain symptoms, DSM permits classification of the person as having a specific disorder.
 
-This is what we do when we reason about the truth of statements.
+### Major Depression in DSM-5
+The symptoms, signs, and behaviors that tend to cluster together for major depression are found in the DSM-5 criteria on table below.
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+Diagnosis of major depression requires criterion (symptom) 1 or 2; in addition, any four other symptoms must be present during the same 2-week period. 
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+| Does the person: |
+|-|
+| 1. Show depressed mood much of the day, on most days (for at least 2 weeks)? |
+| 2. Show diminished interest in pleasurable activities? |
+| 3. Show significant weight loss, not due to dieting?|
+| 4. Experience sleep disturbances (a lack of or too much sleep)?|
+| 5. Show agitation, restlessness, or slowing?|
+| 6. Show signs of fatigue or loss of energy almost every day? |
+| 7. Report feelings of worthlessness? |
+| 8. Show signs of problems in concentrating or being indecisive? |
+| 9. Have recurrent thoughts of death or suicide, or has he or she attempted suicide? |
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+#### Can Someone Be More Or Less Depressed? 
+No, according to the DSM approach, which assumes that having a disorder is an "all-or-none" kind of thing. 
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+A person either meets the criteria for diagnosis of major depression or does not.
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+## Diagnoses Have Been Increasing
+Based on the DSM-IV-TR criteria, during their lifetime about half of the U.S. population will be diagnosed with a mental disorder.
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+From 1987 to 1997, the number of people treated for depression increased by 300%.
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+In the last two decades, the diagnosis of autism greatly increased from about 1 in 150 to 1 in 60. 
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+### Vaccines Do Not Cause Autism
+Epidemiological studies have clearly refuted the claim that the MMR (measles/mumps/rubella) vaccine caused the increase in autism. 
 
-## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+Out of fear, many parents resisted vaccination of their children with MMR vaccines, resulting in an increase in deaths from these preventable diseases.
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+#### What Is Causing Autism Diagnoses to Increase?
+Diagnostic categories in DSM have become more inclusive and numerous, leading to more possible diagnoses. 
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+In 1952, DSM-I had only 106 diagnoses and 128 pages. By 2013, DSM-5 included more than 300 diagnoses and 946 pages. 
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+### Over-Diagnosis of Mental Disorders
+Rosenhan (1973) and four other mental health professionals without mental disorders presented themselves to 12 different psychiatric hospitals. They claimed to hear voices that said "thud," "empty," and "hollow."
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+All five were diagnosed with schizophrenia.
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+They showed no more symptoms and claimed to be recovered, but were kept longer and made to agree they had a disorder and to take antipsychotic drugs.
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
+##  Criticism: DSM Disorders Are Arbitrary
+An APA task force decides if something is a disorder, sometimes after a consensus of task force members come to agreement.
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
+Homosexuality used to be a mental disorder, but it was voted out.
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
+DSM disorders are not based enough on scientific research.
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
+## What Is Clinical Assessment?
+Systematically collecting and evaluating information about a client from many sources to make a diagnosis:
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
+* Case history data
+* Interviews with client and family members
+* Behavioral observations
+* Information from a mental status examination
+Also used to track progress in therapy
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
+### Making a Good DSM Diagnosis
+**Differential diagnosis:** A diagnosis that shows the signs, symptoms, and behaviors of a person meet the criteria and best fit one diagnostic label while ruling out other diagnostic labels for the same set of signs, symptoms, and behaviors.
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
+### Comorbidity
+Comorbidity: Diagnosis of more than one disorder.
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
+People often show signs, symptoms, and behaviors that fit more than one diagnostic category. They may require a "dual diagnosis." 
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
+Substance abuse disorder is the mental disorder that is most often comorbid with other disorders.
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
+## Thinking Errors in Clinical Psychology
+**Rapid diagnosis (hasty generalization):** Making a diagnosis within a few minutes.
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
+**Excessive backward reasoning:** Relying too much on preconceptions and expectations, looking for data that support the clinician's hypothesis rather than looking at the client data and then forming a hypothesis. 
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
+**Behavioral confirmation:** Behaving toward a client in a way that elicits behaviors that confirm the hypothesis the clinician already has about a client's problem. 
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
+**Hindsight bias:** Knowing the outcome of a situation and the nature of a client's problem may make it appear almost inevitable in hindsight. 
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
+**Bias:** These effects can be caused by preconceptions, stereotypes, and the clinician's background knowledge. 
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
+Clinicians are susceptible to thinking errors, such as inappropriate use of availability as they readily access vivid details and recent experiences of cases. 
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
+## Fixing Thinking Errors
+| Thinking Error | Description | How to Fix It |
+|-|-|-|
+| Reification | Assuming that a hypothetical construct, such as a mental disorder, is a real, concrete entity | Realize that a mental disorder is an operationally defined and created construct.|
+| Mistaking diagnosis for a cause |Thinking that a diagnosis is a cause of behavior or a mental problem|Realize that a diagnosis is a label for a classification.|
+| Forer or Barnum effect| Assuming that a general description of a person is predictive and diagnostic| Use more detailed, specific information about signs, symptoms, and behaviors.|
+| Rapid diagnosis (hasty generalization) |Quickly diagnosing a mental disorder without considering relevant criteria and all relevant signs and symptoms| Conduct a more thorough assessment and a differential diagnosis.|
+| Excessive backward reasoning |Relying too much on preconceptions, expectations, and stereotypes to guide reasoning| Engage in more forward reasoning, paying more attention to the data.|
+| Behavioral confirmation (self-fulfilling prophesy) |Eliciting certain behaviors from a client that confirm the clinician's expectations about the client| Remain open to other interpretations of a client's behavior and use objective measures to assess the behavior. |
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+## Clinical Approach
+The clinical approach refers to the subjective and intuitive judgments that clinicians ordinarily make. 
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+This approach is subject to the human fallibility of clinicians. 
+
+When clinicians fail to systematically assess all relevant information, they are excessively relying on intuition. In such a case, the mechanical approach is superior.
+
+### Improving Clinical Reasoning
+
+| Guidelines for Improving Clinical Reasoning |
+|-|
+| 1. Collect high-quality data on clients, using reliable and valid measures and assessments.|
+| 2. Take into account contextual, situational, and background knowledge that might affect the collection and interpretation of client data.|
+| 3. Generate multiple hypotheses from different perspectives about a client's problem. |
+| 4. Avoid hindsight bias, stereotypes, preconceptions, and bias from heuristics. |
+| 5. Use relevant base rate information and probabilities to make judgments and predictions.|
+| 6. Test hypotheses about clients' data and seek to disconfirm them. |
+| 7. Select the hypothesis that best fits the data, weighing intuitions and personal experience less in judgments, and accurately assessing confidence in your conclusions.|
+| 8. Seek and use reliable and valid feedback on the quality of your reasoning and judgments.|
