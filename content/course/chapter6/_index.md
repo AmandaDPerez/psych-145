@@ -1,156 +1,184 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
+linktitle: Chapter 6
+summary: CT Chapter 6
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 6
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+# Errors in Attention, Perception, and Memory That Affect Thinking
 
-Who believes that the moon affects behavior?
+## Cognitive Errors Affect Thinking
+**Cognitive errors** are errors that occur in processing as we attend, perceive, learn, remember, and think. We focus on the errors that can affect thinking.
+ 
+Reasoning is a cognitive activity that depends on attention, perception, and memory. Problems with these cognitive processes lead to thinking errors.
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+### Cognitive Errors Can Have Big Consequences
+Each year, hundreds of people are wrongly convicted of crimes based on faulty eyewitness testimony and identification. 
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+Jurors often place a high value on eyewitness memories that are confidently, but inaccurately reported, leading jurors to make faulty judgments. 
 
-Psychiatric admissions do not increase during a full moon.
+### When Do Cognitive Errors Occur?
+**Attention:** when we focus on something
 
-A full moon does not lead to more suicides.
+**Memory:** when we learn and remember 
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+**Perception:** when sensory information is organized and interpreted
 
-### Where do our opinions come from?
+### Attention
+Our ability to direct our minds to new stimuli, focus on these stimuli, and maintain our alertness and awareness of stimuli and our mental contents
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+Basic assumption: Our attention is limited.
 
-Many of your ideas come from your culture and from personal experience.
+#### Inattentional Blindness
+Paying attention to one part of a display can lead us to miss something that is clearly visible in our field of view.
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+Mack and Rock (1998) have argued that we may be unaware of what we are perceiving unless we attend to it.
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+#### Magicians Misdirect Attention
+Magicians use inattentional blindness by showing an object and then directing attention elsewhere. 
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+* When you switch your attention back to the object, it is gone. 
 
-**Reflective thinking** refers to thinking about thinking.
+#### Change Blindness Blindness 
+Levin, Momen, Drivdahl, and Simons (2000) asked subjects if they would notice changes that happened in front of them. 
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+Participants greatly overestimated their ability to detect such changes; this is a kind of overconfidence and a metacognitive problem. Participants were blind to their change blindness.
 
-This is what we do when we reason about the truth of statements.
+#### Divided Attention (Multitasking) 
+Distributing your attentional resources between more than one task is less efficient and more prone to error than when you focus on one task.
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+*Example: Talking on the cell phone or texting while driving involves divided attention and greatly increases driving errors and the risk of an accident compared to just focusing on driving.*
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+### Working Memory
+Working memory: the kind of short-term memory we use to do tasks in which we must hold information temporarily in memory as we do some mental work. 
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+Examples: solving problems, reading, critical thinking, comprehending and taking notes in class
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+#### Working Memory Is Limited
+It can hold about 5-9 items at once.
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+It holds information for short periods of time unless we pay attention to the information or refresh it using rehearsal.
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+Interference from other information may lead us to forget or mix up the information we are holding in working memory. 
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+#### Working Memory Errors 
+When **cognitive load** is too great (when we must hold or process too much data at once), we may forget information that we need to do a task, or our performance may become unorganized. 
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+For example, when you are taking notes, you may not be able to remember some new information while still writing down what you heard before. 
 
-## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+### Long-Term Memory
+Long-term memory is the memory for the vast amount of information we accumulate throughout our lives, including facts, memories of experiences, knowledge of language, and how to do things.
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+Long-term memory is subject to error, as when an eyewitness misidentifies a person in a lineup or you forget an answer on a test. 
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+### Memory Errors
+**False memories**, also called "memory illusions," occur when you remember things that were not there.
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+**Source forgetting** is forgetting where or how you obtained some information-that is, attributing your memory to the wrong source or person.
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+#### Ordinary Memory Can Be Accurate
+People can recognize 40,000 different words and 93% of 2,560 pictures viewed 3 days earlier.
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+They can greatly improve their memories and accuracy of recall by using mnemonics and correct practice.
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
+Actors can learn to accurately recall hundreds of lines.
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
+### Accurate Eyewitness Testimony
+Yuille and Cutsall (1986) did a scientific study and tested the memory of 13 eyewitnesses; they found memory to be accurate 5 months after an event.
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
+Odinot, Walters, and van Koppen (2009) did a case study on the memory of 13 eyewitnesses and found it to be 84% accurate 3 months after an event.
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
+### Inaccurate Eyewitness Testimony 
+Loftus and Palmer (1974) found that providing misinformation after witnessing an incident affects estimates. 
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
+Example: People who got a leading question-How fast was the car going when it 'crashed into' versus 'contacted' the other car?-estimated higher speeds in the "crashed" case. 
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
+Belli (1989), Loftus et al. (1989), and Sutherland and Hayne (2001) conducted experiments verifying the misinformation effect.
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
+#### Misinformation Effect
+The misinformation effect involves a witness hearing misleading information after viewing an event that produces biased or inaccurate memories. 
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
+The misinformation effect results from reconstruction around prior knowledge or a schema related to the information. 
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
+### Eyewitness Identification
+Involves recognition of what a person looks like
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
+* Face
+* Body
+* Clothing
+* Voice
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
+People believe that eyewitness identification is accurate because:
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
+* Humans are good at recognizing facial expressions that depict basic emotions.
+* Everyday experience shows we seldom fail to recognize the faces of people we know.
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
+However, an eyewitness must recognize people based on facial features, not from the emotion in the face.
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
+Also, In eyewitness memory, we are often asked to remember an unfamiliar face. 
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+A scientific study by Valentine et al. (2003) of 314 actual lineups from London police records revealed low levels of identification accuracy.
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+Of 640 eyewitnesses, only 40% were able to identify the perpetrator. 
+
+Most of the high-quality evidence suggests that eyewitness testimony is often inaccurate, and is susceptible to suggestion, leading questions, and inaccurate reconstruction.
+
+Likewise, most of the high-quality evidence suggests that eyewitness identification is often inaccurate.
+
+**Therefore, eyewitness memory is often inaccurate.**
+
+### Is Memory Inaccurate?
+Sometimes, under certain conditions.
+
+Be careful not to make a **sweeping generalization** about the accuracy of memory, in general, from the specific discussion suggesting that eyewitness memory is often inaccurate.
+
+
+### Perception
+Perception involves taking in data through the senses and then organizing the data, finding patterns in it, and interpreting it.
+
+Perception usually leads to awareness of something in the environment.
+
+#### Sensory Perceptual Limitations
+We have severe limits on the energy changes we can detect with our unaided senses. 
+
+Dogs and bats can hear higher-frequency sounds than can humans.
+
+Humans have been able to artificially enhance and supplement their sensory abilities to overcome these limitations. 
+
+#### Expectations Can Bias Perception
+Studies have shown that background knowledge and expectations can bias perception rather than improve it. 
+
+A study by Thorne and Himelstein (1984) tested this idea by telling one group of people that there were satanic words in a rock song played backward. A control group, given no background knowledge, heard no such words. The other group reported many.
+
+#### Hallucinations
+A **hallucination** is a type of cognitive error in which a person perceives something with no real, objective stimulus present. 
+
+Information stored in memory is likely being retrieved and constructed into experiences that seem real.
+
+One common, normal hallucination is hearing someone calling your name when no one really is. 
+
+##### Types of Hallucinations
+People with schizophrenia may have auditory hallucinations that are connected to recurring, paranoid delusions.
+
+Grieving people sometimes hallucinate the image of the departed-this can be normal during early grieving.
+
+#### Sensed Presence
+**Sensed presence** is hallucinating the image of a person, especially under physically demanding and stressful conditions.
+
+Charles Lindbergh, the first person to fly nonstop across the Atlantic, came to believe, after hours of sleep deprivation, that there was a presence in his plane guiding him to his destination. 
+
+
+
+
+
+
+
