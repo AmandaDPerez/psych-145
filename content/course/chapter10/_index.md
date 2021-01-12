@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Chapter 10
 summary: CT Chapter 10
-weight: 1
+weight: 20
 icon: book
 icon_pack: fas
 
