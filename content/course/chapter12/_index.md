@@ -1,156 +1,172 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
+linktitle: Chapter 12
+summary: CT Chapter 12
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 12
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+# Superstition & Magic
+## What Is a Superstition?
+A superstition is a type of commonsense or folk belief that is not plausible and false.
 
-Who believes that the moon affects behavior?
+A superstitious behavior often involves engaging in some ritual action that is intended to prevent an undesirable outcome or increase one's luck, but that does not actually affect the objective probability of success.
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+## Superstitions, Misconceptions, and Pseudoscience 
+All three make unsubstantiated claims.
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+A superstition resembles a pseudoscientific belief in that both are implausible, given what is known from science. 
 
-Psychiatric admissions do not increase during a full moon.
+An important difference from pseudoscience is that people do not claim that a superstition is based on science, as do believers in pseudoscience.
 
-A full moon does not lead to more suicides.
+## Superstition and Magic
+Superstition has long been associated with magic.
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+Those who believe in and practice magic often assume that certain practices, rituals, and potions can harness supernatural forces to achieve impossible feats and control the forces of nature. 
 
-### Where do our opinions come from?
+## Superstition Persists
+The idea of witchcraft is found in the *Hebrew Bible, the New Testament*, and *The Odyssey of Homer*.
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+During the Inquisition in Europe, many people, especially women, were accused of witchcraft. 
 
-Many of your ideas come from your culture and from personal experience.
+Belief in witches persists in the twenty-first century, despite the "triumph" of modern science.
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+## Rise of Science in the Sixteenth through Nineteenth Centuries
+Science gave natural explanations for events previously given supernatural explanations. *Witches do not cause diseases; germs do.*
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+With the Enlightenment and the Scientific Revolution in the 1600s, increasingly scientific-minded people criticized superstition as unscientific, folk belief.
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+### Law of Similarity
+Things that resemble each other share important properties, as in "like goes with like" 
 
-**Reflective thinking** refers to thinking about thinking.
+*Example: The Voodoo practice of burning a doll that looks like the intended victim to harm the person.*
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+###  Law of Contagion
+Once things come into contact with each other, they may change each other for a period of time.
 
-This is what we do when we reason about the truth of statements.
+*Example: A person does not want to handle an object that belonged to an evil person for fear of being harmed or corrupted by the evil person. *
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+## The Psychology of Superstition
+We should try to scientifically understand the behavior and mental processes of people who believe in superstition because it is so pervasive.
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+Which factors are contributing to superstitious belief, thinking, and behavior?
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+### A Modern Example
+The legendary baseball hitter Wade Boggs ate chicken before every game for 20 years. As part of his 5-hour, ritualized pregame preparation, he finished a drill by stepping on third base, then second, then first, and took two steps toward the coaching box and exactly four steps to the dugout. Each time before batting, he drew the Hebrew letter chai in the dirt with the tip of his bat (Vyse, 1997). 
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+Boggs reported that he did this so as *not to leave anything to chance.*
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+## What Leads to Superstition?
+Coincidental events are likely to happen over the long run but at low frequencies. 
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+When coincidences inevitably happen, people, in their search for patterns, seem prone to attribute them to paranormal or supernatural causes, especially when they happen to them.
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+### Motivational-Emotional Perspective
+Perhaps, engaging in superstitious behaviors:
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+* Reduces negative emotion and stress
+* Helps motivate a person to stay on task
+* Increases hope for a positive outcome 
+* Helps offer compensatory control over anxiety-provoking randomness
 
-## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+### Superstitious Rituals May Help Some People Cope 
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+People who routinely engage in risky, high- stakes activities, such as athletes, gamblers, and fighter pilots, are particularly susceptible to superstitious behaviors. 
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+*Example: Wade Boggs and his pregame rituals*
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+## Learning Theory Perspective
+According to learning theory, behaviors that are rewarded tend to be reinforced and increase in frequency. 
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+A behavior that was coincidentally followed by a rewarding stimulus might be reinforced even though it did not actually predict the reward. 
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+### Superstition in Pigeons
+When B.F. Skinner placed pigeons in operant chambers and food was dispensed randomly during 15-second intervals, the pigeons were reinforced for whatever behavior they were engaging in before reinforcement.
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
+The pigeons acquired superstitious (i.e., very unusual) behaviors such as repeatedly bobbing their heads and walking in circles that were not predictive of obtaining the food reward. 
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
+#### People Acquiring Superstitions
+Skinner's finding that pigeons can acquire superstitious behaviors through operant conditioning has been replicated with children and college students.
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
+Superstitious practices can be acquired as individuals learn (incorrectly) through operant conditioning that a ritual behavior predicts reward or success.
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
+### Superstitious Objects
+Lucky objects are used to improve the chance of success in risky activities. This effect may potentially occur through reinforcement.
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
+About one-third of college students use lucky pens or wear lucky clothing when taking a test.
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
+## Superstition and Thinking Errors
+*Post hoc, ergo propter hoc:* "After this, therefore because of this" reasoning may lead to superstitious rituals. 
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
+Examples: Perhaps after he got hits and his team won when he did his rituals, Wade Boggs mistakenly concluded that the rituals were leading to the wins. As a professional basketball player, Michael Jordan wore undershorts that were associated with his earlier successes in college basketball.
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
+## Law of Contagion
+Law of contagion: A psychological phenomenon underlying feelings of contamination and superstitious behaviors.
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
+The entity can be some unobservable property or force (either positive or negative) associated with a person or object that can be transmitted to a person.
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
+### Would You Wear the Sweater of a Convicted Killer?
+Research by Nemeroff and Rozin (1990) asked participants if they would wear a sweater worn by someone who had lost a limb or worn by someone else who was a convicted killer. 
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
+Participants were reluctant to do so.
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
+This demonstrates the law of contagion. 
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
+### Real-World Negative Consequences of the Law of Contagion
+Many people are unwilling to have any contact with a person who has AIDS or any objects associated with such a person, even though AIDS is not easily transmitted except through exchange of bodily fluids.
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
+This can result in AIDs victims being needlessly shunned.
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
+## Apparent Mental Causation
+Definition: Believing that merely having a thought, without the intervention of a behavior or physical factor, can affect another person or influence an event.
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
+Participants in a study who were instructed to form positive visualizations of a peer's successful basketball shooting believed that they had influenced the peer.
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+### Apparent Mental Causation Is a Paranormal Belief
+It is akin to:
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+* Telepathy (mentally influencing a mind at a distance)
+* Telekinesis (mentally influencing an object at a distance)
+
+## Could the Law of Contagion Have an Evolutionary Basis?
+Even if you did not know about germ theory, staying away from a sick person would be adaptive, increasing the survival rate of those with a trait for it.
+
+Staying away from a sick person does not harm you or cost much.
+
+People whose ideas repel us are often viewed as disgusting.
+
+## Individual Differences in Superstitious Belief
+There is a higher rate of obsessive-compulsive disorder in superstitious people, but generally superstition is not associated with having a psychological disorder.
+
+Holding superstitious beliefs is associated more with Type 1 thinking (Lindeman & Aarnio, 2006).
+
+### Magic and Witchcraft in the Twenty-First Century
+Witchcraft is still practiced in parts of Africa. People prefer witchcraft as a cure for ailments and forego modern medical treatments.
+
+### Could Superstition Help You?
+Damish et al. (2010) experiment:
+
+* One group was given the expectation that engaging in an activity would promote good luck.
+* A second group was not given the expectation.
+
+Results: Students with the expectation of good luck were more successful on a memory task.
+In another experiment, students with a lucky charm persisted longer on a task and had higher self-efficacy than those without such a charm.
+
+### When Is Superstition a Problem?
+When it harms another person, as when a person is ostracized for witchcraft or for having AIDS
+
+When it harms the superstitious person, as when a person foregoes an effective treatment for one based on superstition
+
+
+
+
+
+
+
+
