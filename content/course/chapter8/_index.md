@@ -1,156 +1,198 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
+linktitle: Chapter 8
+summary: CT Chapter 8
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 8
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+# CT and the Internet
 
-Who believes that the moon affects behavior?
+## Benefits of the Internet
+The vast amount of easily accessed information could allow us to make more informed decisions and advance the state of our knowledge. 
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+Compare it to invention of the printing press, which created a better informed public and had a democratizing effect on society.
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+## Disadvantages of the Internet
+Information overload: Too great a demand on our limited capacity of attention and working memory
 
-Psychiatric admissions do not increase during a full moon.
+Internet addiction disorder
 
-A full moon does not lead to more suicides.
+Most of information may be irrelevant: How do we sort through it?
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+### Information Overload
+We have limited resources for paying attention and holding information in short-term memory.
 
-### Where do our opinions come from?
+Dual process theory says people use cognitive shortcuts and are biased by what they already know.
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+They may process information superficially when they receive too much information from digital devices.
 
-Many of your ideas come from your culture and from personal experience.
+### Easy Access to Information Is Not Always Good
+The Internet can help you selectively and efficiently access information.
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+It can also promote confirmation bias, which occurs when people pay attention to only those sites that favor their beliefs and preconceptions.
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+#### Internet Rumors
+Rumors, urban legends, fake news, and conspiracy theories spread rapidly and take on a life of their own. 
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+An Internet rumor started when an amateur photographer posted a picture of saucer-like object behind the Hale-Bopp comet and Heaven's Gate cult concluded it was evidence of an alien spaceship.
 
-**Reflective thinking** refers to thinking about thinking.
+#### Fake News
+Fake news is misinformation purporting to be real news.
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+It is spread on social media and fake websites without any editorial overview or fact checking.
 
-This is what we do when we reason about the truth of statements.
+Research at Stanford University conducted by Sam Wineberg suggests that high school and college students are not good at detecting fake news.
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+## Conspiracy Theory
+A conspiracy theory is an alternative account of events offered in place of a conventional understanding of events that proposes the secret collusion of a group to deceive the public.
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+*Example: Government officials planned and executed the 9/11/01 attack on the World Trade Center, not Osama bin Laden.*
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+### Conspiracy Theories Can Be False
+Usually, when we say something is a conspiracy theory, we mean it is unsubstantiated, or not supported by good evidence, and it is taken to be false.
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+The conspiracy theory that the moon landing was a hoax is false because the landing is well substantiated by much scientific evidence.
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+### Some Conspiracies Are Real
+Theories about true conspiracies are substantiated, or supported by good evidence, and taken to be true.
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+For example, Brutus and Roman senators plotting to assassinate Julius Caesar was a real conspiracy. 
+*Et Tu, Brute?*
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+### Pseudoscience and Conspiracy
+Theorists say the moon landing must have been faked because the flag was waving, though there could not be wind.
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+When science offers an explanation, conspiracy theorists are not swayed and show belief perseverance.
 
-## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+### Thinking Errors in Science Related to Conspiracy Theories
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+Conspiracy theorists misunderstand the inductive nature of science, that we *tentatively* believe what most of the high-quality evidence supports.
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+Theorists say if 100% of scientists do not believe in a human cause of global warming (the actual percentage is 97%), then it is not true. This is black-and-white thinking, a false dichotomy, all or nothing thinking.
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+### Assumptions
+Conspiracy theorists use assumptions to subvert negative scientific findings after the fact. Post hoc reasoning makes their theories unfalsifiable. 
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+Their theories are not **parsimonious**-that is, not the simplest theory that can account for the findings. Scientists prefer a parsimonious theory.
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+### Peer Review
+The peer review process involves submitting ideas and research to reviewers who have knowledge and expertise relevant to the research.
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
+Conspiracy theories are not peer reviewed, and they have no standards of evidence and criteria for what makes a study high quality. 
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
+## Web-Based versus Web-Placed
+**Web-based:** A "data base," such as PsycINFO, PsycARTICLES, or GoogleScholar
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
+**Web-placed:** Someone put or "placed" the information on the Web-often an individual or special-interest group
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
+### Use "CARE" to Evaluate Information on the Internet
+| CARE | Meaning |
+|-|-|
+| **C**redibility | Are sources believable, authentic, and trustworthy?|
+| **A**ccuracy | Is the information true, factual, and correct?|
+| **R**easonableness | How plausible and consistent are the claims? Are sources objective?|
+| **E**vidence | How much good evidence supports and does not support the claims being made? |
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
+### Minds Helping Minds
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
+[Click this link and read through all of the images](https://www.dropbox.com/sh/bnwrl55vl03xkkn/AABQr8DjFMEfUaWa9BkaVQiLa?dl=0). 
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
+#### Testing Credibility of Minds Helping Minds
+*Is the author listed, or did a webmaster write the material on the site? *
+No author, so we know little about the source. 
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
+*What are the credentials of the author? Ph.D.? Dr.? Special training or qualifications? Relevant biographical information? Does the person/ authority/expert have relevant knowledge?*
+We can't tell because no source information was provided.
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
+*Is the author's affiliation provided? Educational institution? Company? Government agency? *
+No, because no source information was provided.
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
+*Are there other markers that suggest the source/author is not credible or lacks expertise?* 
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
+* Poor/confusing writing
+* Typographic and grammatical errors
+* Misuse of technical terminology is shown when the article implies that Einstein was studying psychic energy. 
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
+*How good is the quality control of information provided? *
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
+* Some references to psychanalytical journals, but psychoanalysis has been considered by some to be pseudoscientific. 
+* Mentions the International Telepatherapy Association, but it probably does not provide independent corroboration of the information. 
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
+#### Testing Accuracy of Minds Helping Minds
+*How recent is the information provided? Dates of research? Last time the site was updated? *
+The research cited is old-for example, 1976.
+There is no mention of when the site was updated.
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
+*How complete is the information? Are facts omitted? Are all sides of an argument represented by evidence?*
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+* Only case studies that support telepatherapy are provided. 
+* There are only three positive testimonials: Were there others that were not positive?
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+*Does more than one authority, researcher, or independent person corroborate the factual and other claims made?*  
+
+* No corroboration by actual authorities-only the quote from Einstein, and Einstein's expertise does not seem relevant to telepatherapy. 
+* The 1976 article by Dr. David Shainberg describes his personal experience with a telepathic dream as corroboration of telepathy. 
+
+
+#### Testing Reasonableness of Minds Helping Minds
+*Is the information in the website plausible?*
+
+* Telepatherapy does not seem reasonable given what else is known in science and from other authoritative sources. Telepathy has not been reliably supported by scientific research. 
+* The term "negative spiritual energies" is not a conventional psychological term and is not connected with psychological science. 
+
+*Is the presentation of information objective or slanted, biased, or designed to arouse your emotions?*
+The presentation seems one-sided, with all the evidence and information provided to persuade the reader that telepatherapy is a good therapy.
+
+*Is there a conflict of interest?*
+
+* Probably. It is apparently a business, as signaled by the .com. 
+* It charges for instruction: A fee of $149.95 is identified under "Certification."
+* The website seems designed to promote a therapy, rather than to evaluate the effectiveness of one.
+
+*Are the claims moderate, or are they extreme?*
+
+* The claim that telepatherapy is "revolutionary" seems extreme, especially given the lack of support for it.
+* The claim that telepatherapy "cures" people seems immoderate given that evidence-based practices seldom do this; so, it is inconsistent with what is known in psychological science.
+
+*Is the presentation of information objective or slanted, biased, or designed to arouse your emotions? *
+The presentation seems one-sided, and the initial questions are designed to arouse feelings of uncertainty about life.
+
+#### Minds Helping Minds in Sum
+Credible? No. Without source information, it is hard to determine credibility, but the website does not seem credible.
+
+Accurate? No. The website contains dated information, as well as typographic and grammar errors.
+
+Reasonable? No. ESP is implausible, and the author has a potential conflict of interest.
+
+Evidence? The claims are supported by low-quality evidence, such as testimonials, statements of authority, and low-quality research.
+
+Based on the website's lack of credibility, inaccuracies, implausible and unreasonable statements, and low-quality evidence, we should conclude that the information on the website is low quality and be very skeptical of claims made about telepatherapy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
