@@ -1,156 +1,235 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: CT Chapter 1
-weight: 1
+linktitle: Chapter 14
+summary: CT Chapter 14
+weight: 40
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Chapter 14
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT in Everyday life
+# CT, Language, and Writing
+## What Is Language? 
+Language is a system of communication that uses symbols, such as words, and a set of rules called a "grammar" to make meaningful statements.
 
-Who believes that the moon affects behavior?
+We can use the rules to combine the symbols into a practically unlimited number of meaningful statements.
 
-* Nearly 81% of mental health professionals, according to Owens and McGowan (2006)
-* Many college students; 45% in a study by Russell and Dua (1983) and nearly 40% in a study by Bensley and Lilienfeld (2015)
+## How Does Language Support Thinking?
+Language provides a way to externalize our thinking, making it observable. 
 
-### Moon Truth
-The moon does not cause people to behave abnormally. 
+Writing is a good tool for helping us reflect on the quality of our thinking because it allows us and others to observe and evaluate how we have represented our thinking in words. 
 
-Psychiatric admissions do not increase during a full moon.
+## Persuasion
+Persuasion: Trying to convince someone of a particular conclusion, sometimes without much concern for truth. 
 
-A full moon does not lead to more suicides.
+Persuasive messages can be nonverbal, such as pictures, but they are often presented in the form of language.
 
-In a review of 37 studies, Rotton and Kelly (1985) found no good evidence that any phase of the moon increased abnormal behavior. 
+Persuasion is used in advertisements, political ads, the classroom, and most other settings and situations. 
 
-### Where do our opinions come from?
+## Propaganda 
+Propaganda: Communication that attempts to convince people to behave a certain way or adopt a certain position.
 
-People have common sense beliefs that they use to explain behaviors and mental states even before they study psychology. 
+Propaganda becomes dangerous when politicians use inflammatory language to whip up hatred of an enemy.
 
-Many of your ideas come from your culture and from personal experience.
+When we like the message of propaganda, we call it educational. 
 
-### The purpose of critical thinking
-Critical thinking will teach you *how* to think, not *what* to think.
+### Nazi Propaganda
+Nazi Germans during World War II used anti-Semitic essays and posters, like for the movie The Eternal Jew, as propaganda tools.
 
-Critical thinking (CT) is an approach that can help you think effectively about ideas. 
+## Emotive Language
+Emotive language: Words and phrases with positive or negative associations that are linked to parts of arguments to sway or influence others.
 
-## What is CT?
-Critical thinking is reflective thinking involved in evaluating evidence relevant to a claim so that a well-reasoned conclusion can be drawn from the evidence.
+Example: in nineteenth-century America, it was common to refer to Native Americans as "savages," justifying their mistreatment and confiscation of their lands.
 
-**Reflective thinking** refers to thinking about thinking.
+### Attacking the Person
+Attacking the man or person: The person making the argument criticizes someone who endorses an opposing view, instead of addressing the claim or argument the person is making.
 
-**Evaluating evidence relevant to a claim** refers to examining the reasons that support or do not support a claim.
+Example: A politician says, "Senator Jones is a crook who has taken illegal bribes. Why should you listen to his proposal?" The politician is deflecting attention from the senator's proposal by attacking the senator as a person.
 
-This is what we do when we reason about the truth of statements.
+## Euphemism
+Euphemism: Use of language to put a positive spin on ideas by substituting a positive expression for a negative one. 
 
-### Well-Reasoned Conclusions
-The phrase “so that a well-reasoned conclusion can be drawn from the evidence” means that the thinking is sound, logical, and fair. For example, a well-reasoned conclusion might be a correct inference, a sound judgment or decision, or an accurate diagnosis of someone.
+Example: A spokesman for the Defense Department says, "We should continue the use of drones to attack the enemy because it has turned the war around and the collateral damage [civilian deaths] is minimal."
 
-### Where Does “Critical” Come From?
-**Critical** comes from the Greek word crites, meaning “judge,” and is related to criterion, meaning “the means of judgment.” Compare critical to criteria and criterion—terms critical thinkers use to refer to standards they use to make judgments. For example, psychologists use criteria to accurately diagnose mental disorders in clients.
+## Clarity and Language That Impedes It
+Clarity in communication refers to precision in meaning that is communicated between a sender and a receiver.
 
-### Which Claims Should We Accept?
-Critical thinkers use criteria and standards to decide which claims to accept. Although everyone is entitled to their opinion, some opinions, ideas, and theories can be shown to be better than others when we use the appropriate criteria and standards to decide which is more accurate.
+People may use a variety of strategies that impede clear communication, which in turn can lead to confusion, misunderstanding, and wrong inferences about the ideas being communicated.
 
-### Some Theories Are Better Than Others
-Opponents of Darwin’s theory of evolution sometimes say, “It’s just a theory,” implying it is no better than any other theory. Darwin’s theory has been shown to be one of the best-supported and most powerful theories in all of science, based on scientific standards of evidence.
+## Inadequate Comparisons
+Inadequate comparisons: When a comparison group is not mentioned or when a comparison is made that is not relevant or appropriate. 
 
-#### What Is Darwin’s Theory?
-Organisms change gradually over time (evolve) but show continuity with their relatives. Natural selection: Organisms that have a trait or characteristic that helps them survive in their environment will tend to survive long enough to reproduce and pass that trait on to their offspring.
+Example: An advertiser says that its product is "the best" without specifying the reference group or identifying what makes it the best.
 
-#### What Makes Darwin’s Theory a Good Scientific Theory?
-“A theory is a set of general principles that attempts to explain and predict or other phenomena” (Myers & Hansen, 2012). Darwin’s theory is scientifically sound because it makes accurate predictions and helps to explain questions posed about the world. For example, Darwin’s theory of evolution can help explain how dogs evolved from wolves.
+## Weasel Words
+Weasel words: Words that hedge or qualify claims so much that they begin to lose their meaning.
 
-#### Example: “Round earth theory” is better than “flat earth theory.”
-The “round earth” theory is better because it makes more accurate predictions than the “flat earth theory” (Asimov, 1989). The “flat earth” theory may appear to be true from ordinary visual experience, but higher-quality scientific evidence, such as pictures of Earth from space, refute it. 
+Example: The side effects of the drug are relatively harmless.
+ 
+## Vagueness
+Vagueness: Use of imprecise words-that is, words that do not have clear boundaries.
 
-### Belief Perseverance
-Belief perseverance: a thinking error in which people refuse to revise or reject their faulty belief when confronted with evidence clearly refuting it. Creationists persist in denying the reality of evolution, despite evidence clearly demonstrating that Darwin’s theory is better. Flat-earthers continue to believe that the Earth is flat despite satellite photos of a round Earth.
+Example: The word "rich" specifies wealth at the high end, but is rather imprecise at lower values (Basham et al., 2004). Oprah Winfrey is rich, but is the physician who makes $250,000 per year also rich? 
+## Pseudo-profound Bullshit
+Pseudo-profound bullshit: A kind of vague language use that may seem to convey profound meaning, but that is actually a set of buzzwords put together. 
 
-## Thinking Errors
-**Thinking errors** are mistakes in judgment and reasoning, such as logical errors and other failures to think critically. They also reveal the need to improve thinking.
+Example: "Attention and intention are the mechanics of manifestation" (Chopra, cited in Pennycock et al., 2015, p. 550).
 
-**Thinking Errors Can Be Costly:** Ponzi schemes, like that undertaken by Bernard Madoff, who “made off” with $64 billion of investors’ money, depend on victims believing in a scheme that is too good to be true. Madoff’s victims included Steven Spielberg, Kevin Bacon, and many charities. Credit card debt actually means that someone takes out a high-interest loan and may over-estimate his or her ability to pay it off.
+## Ambiguous Language 
+Ambiguous language: Words or expressions that can be interpreted in more than one way, so that their use reduces the clarity and specificity of expression.
 
-### Psychological Misconceptions
-Psychological misconceptions are commonsense mistaken ideas about behavior and mental processes that have not been supported by research in psychology. For example, the idea that the full moon makes people behave abnormally is a psychological misconception.
+Example: "Morgan ate the ice cream with relish" is ambiguous because the word "relish" has two meanings. It could mean with a pickle garnish or with gusto.
 
-### Superstitions
-Superstitions are beliefs that are inconsistent with what is known in science. They are often supernatural beliefs about objects or entities that bring good luck, bad luck, or misfortune.	
+## Equivocation
+Equivocation: Someone making an argument shifts the meaning of an important term from its original meaning to a different one.
 
-## What It Takes to Think Critically
-* Knowledge of reasoning and CT skills 
-* Topical knowledge 
-* Awareness of one’s own thinking and how to regulate it
-* CT dispositions
+Example: "Only man is rational. No woman is a man. Therefore, no woman is rational." This particularly objectionable example shows a shift from "man" as referring to "humans" to the different meaning of "man" as a sex different from "woman."
 
-### CT Knowledge and Skills
-Knowledge of the rules for reasoning that underlie the ability to reason well in different situations. Includes skills for distinguishing arguments from non-arguments, and for recognizing thinking errors
+## Impediments to Clarity and Fixes
+| Name | Description  | How to Fix or Avoid it|
+|-|-|-|
+|Inadequate comparison|Failing to make a sufficient or adequate comparison when a comparison is implied|Complete a contrast or comparison with a group, person, or condition.|
+|Weasel words|Words that qualify or hedge so much that statements lose their force or importance|Use words to describe conclusions that qualify them only as much as the strength of the evidence supports.|
+|Vagueness|Using words that are imprecise, abstract, or too general|Use the most specific and precise words you can.|
+|Ambiguity|Using a word or making a statement that has more than one meaning or interpretation|Use words/statements with a single meaning in a particular context.|
+|Equivocation|Shifting the meaning of an important word in an argument from its original meaning to a different one|Define important terms and stick to the same meaning.|
 
-### Topical Knowledge
-Background knowledge relevant to the subject of a question needed to reason about the question. For example, if you do not know anything about evolutionary theory, it would be hard to reason about it. 
+## Writing Is a Demanding Task
+Writing places great demands on attention and working memory.
 
-### Metacognition
-Awareness of one’s own thinking and how to regulate it is also known as **metacognition**. 
-To monitor and regulate thinking, you have to know the limits of your knowledge and thinking skills.
+Unfortunately, studies suggest that the U.S. educational system is not doing enough to prepare students to think critically through writing.
 
-### CT Dispositions
-**CT dispositions** are attitudes, traits, thinking styles, and motives that make it more likely a person will think critically. 
+Fortunately, writing may be improved by reducing the cognitive load on the writer. One way is to break the writing process into manageable steps.
 
-Examples CT Dispositions:
-* Open-mindedness: a willingness to examine new ideas.
-* Fair-mindedness: a willingness to examine ideas on the other side.
-* Skeptical attitude: a tendency to question and seek evidence for new claims before believing them.
+|Process| Description  |Strategies/Actions|
+|-|-|-|
+| Collecting information| Finding background information on the topic, recording, and summarizing it| Read about the topic and take notes, Conduct research on the topic, Listen to lectures and other sources, Observe the writing of others|
+| Planning| Creating and organizing ideas & Setting goals for writing| Organize notes, Outline important points, Write down goals|
+| Translating ideas into text| Generating sentences & Drafting| Use focused rewriting, Compose a first draft|
+| Reviewing|Reading the text as it develops,  Evaluating how well it executes the plan & Editing and revising as needed| Read what has already been written, Compare it to the goals for the task, Edit errors in the text, Make global revisions as needed|
 
-#### Disposition Example: Doyle
-Arthur Conan Doyle’s lack of a skeptical attitude is shown in his belief in Spiritualism and fairies. 
+## Writing Is Not Linear
+Sometimes after planning, we need to go back and collect more information.
 
-Doyle had good CT skills that he used as a medical doctor and in writing about Sherlock Holms, the detective known for his super ability to reason. 
-Even so, Doyle was not disposed (i.e. **selective CT** to use those CT skills to think critically about beliefs he favored, despite evidence to the contrary.
+Sometimes after translating ideas into sentences, we need to revise our plan.
 
-## Type 2 Thinking
-Critical thinkers often use Type 2 thinking for important questions. They take a slower, deliberate approach on important questions, such as deciding which theory of learning is the best theory. They use standards of evidence to analyze the relevant information and evidence evaluating its quality to draw a well-reasoned conclusion.
+Sometimes after reviewing what we have written, we need to generate a new sentence.
 
-## Arguments
-When people think critically, they often make and evaluate arguments. A **basic argument** is a claim or conclusion taken along with evidence.
+## What Should You Write?
+Pick a topic that interests you and that has adequate information available.
 
-## Claims
-A **claim** is a statement asserting that someone or something has a particular characteristic or property; it has a truth value. Claims can be opinions, beliefs, hypotheses, theoretical statements, and statements made in conversations and legal proceedings.
+To effectively answer an essay question, you must identify the kind of essay required.
 
-## Opinions
-**Opinions** are not persuasive unless they are supported by evidence. When an issue or question is important, critical thinkers support their opinions with evidence: They make arguments.
+The essay prompt provides clues for the kind of response and writing required.
 
-## Evidence
-**Evidence** is a reason offered in support of a claim or conclusion. Evidence takes different forms such as facts, examples, the consensus of individuals with the same opinion, scientific research findings, and statements of an authority or expert.
+## Essay Questions and Prompts
 
-## Basic Argument
-A **basic argument** is a claim or conclusion taken together with evidence supporting it. Find the claim or conclusion and identify whether the statement contains a reason.
+|Type of Question|Description|Prompt Words|
+|-|-|-|
+|**Knowledge**|Identify what you remember pertaining to the question|*List, Describe, Name, Define Identify, Who, What, When*|
+|**Comprehension**|Show you understand the relevant terms and concepts you remember, using your own words|*Paraphrase, Summarize, Explain, Review, Discuss, Interpret, How, Why*|
+|**Application**|Use your knowledge to go beyond simple recall and understanding to solve a problem or make something|*Apply, Construct, Simulate, Employ, Predict, Show how*|
+|**Analysis**|Break something down into its component parts so that it can be understood|*Classify, Distinguish, Differentiate, Compare, Contrast, Categorize, Break down*|
+|**Synthesis**|Bring together different knowledge or concepts in a unified response|*Combine, Relate, Put together, Integrate*|
+|**Evaluation**|Judge whether something is good or bad, true or false, or reaches some criterion|*Judge, Argue, Assess, Appraise, Decide, Defend, Debate, Evaluate, Choose, Justify*|
 
-### Finding Evidence
-Indicator phrases help identify evidence:
-* For example
-* Because of
-* It is known that
-Evidence can also be signaled by the citation of a research study, the statement of an authority, or the statement of a fact.
+## Critical Thinking Essays versus Persuasive Essays 
+A critical thinking essay focuses on evaluating all the important, relevant evidence on each side of a question.
 
-### Weak or Bad Arguments
-Sometimes, basic arguments make claims that are untrue. They sometimes use weak or low-quality evidence. Even so, they are basic arguments if they have both a claim or conclusion and at least one piece of supporting evidence. 
+A persuasive essay typically focuses on convincing the reader that one side is right. 
 
-### Counterarguments
-A **counterargument** is a claim and evidence supporting the other side in an extended argument. It often takes the form of a rebuttal in a dialogue.
-* Argument: “The earth is flat; I can see that it continues off into the distance.”
-* Counterargument: “The earth is round; this satellite photo shows it is roughly spherical.”
+## Why Outlines Can Aid Writing
+Students who first developed an outline wrote better than students who did not make an outline (Kellogg, 1988).
 
-### Inquiry
-The purpose of **inquiry** should be to increase our knowledge by reasoning about questions so that we arrive at well-reasoned conclusions. Sometimes people use reasoning strategies and make thinking errors, such as arguing from ignorance, to try to win arguments and not to arrive at truthful conclusions. 	
+Outlines can help you organize the information.
 
-### Ignorance or Possibility
-Arguing from ignorance or possibility is a thinking error in which someone concludes something is true because it may possibly be true or because it is not known to be false. Example: Scientists have not been able to prove that extrasensory perception does not exist; therefore, it probably does exist. 		
+Outlines can help you remember important points you want to make, reducing the cognitive load. 
 
-## How to Practice CT
-If someone offers an opinion with no evidence, a critical thinker will ask for a reason. A critical thinker argues from evidence that exists **and does not argue from ignorance or possibility** (evidence that does not yet exist).
+### Outline Structure
+**1. Introduction of the basic problem or question**
+
+A. Purpose in writing the paper
+
+B. How the problem will be discussed in the paper (What are the sides of the question?)
+
+C. Definition of relevant terms
+
+**2. Development of the discussion of the problem**
+
+A. Evidence supporting a position, claim, or hypothesis
+
+* Specific bit of evidence supporting one aspect of the claim (What is its quality?)
+* Specific bit of evidence supporting another aspect of the claim (What is its quality?)
+* Additional evidence (What is its quality?)
+* Response to rebuttals and criticisms of evidence presented
+
+B. Evidence against or supporting a rival position, claim, or hypothesis
+
+* Specific bit of evidence supporting one aspect of the rival claim (What is its quality?)
+* Specific bit of evidence supporting another aspect of the rival claim (What is its quality?)
+* Additional evidence (What is its quality?)
+* Response to rebuttals and criticisms of evidence supporting the rival claim
+
+**3. Conclusion**
+
+A. Evaluation of the quality and quantity of the evidence on each side
+
+B. Drawing a well-reasoned inductive conclusion from the review and evaluation of the evidence
+
+#### Translating Ideas into Text
+Using your outline to help you keep in mind the organization of your ideas should help you actually turn those ideas into clear and coherent sentences.
+
+Keep your audience in mind as you write, asking yourself whether the reader can understand and follow what you are writing. 
+
+## Clarity in Writing
+Writing clearly means constructing sentences that can be understood by your audience.
+
+Use the simplest, most relevant words conventionally used by psychologists to convey your idea.
+
+## Coherence
+Good writing is coherent, and the ideas are logically connected.
+
+Write so that the reader can follow your reasoning. 
+
+Hint: Use the language of argumentation to guide the reader from idea to idea and from reasons to conclusions. 
+
+## Four Common Ways Plagiarism Occurs 
+1. You fail to cite someone else's idea you are using.
+
+2. You use someone else's words without citing them.
+
+3. You use the exact words of someone else without putting them in quotation marks (even if you cited them). 
+
+4. You pretend that you are the author of some work actually done by someone else. 
+
+*Adapted from Beins and Beins (2012)* 
+
+## Citing Evidence
+Citing evidence gives appropriate credit to the authors or sources.
+
+It can increase the credibility of the evidence.
+
+It can also provide information to help readers access and further evaluate the evidence. 
+
+### Summarizing Evidence
+A study you cite should summarize 
+
+* What was tested (the hypothesis) 
+* What was found
+* How the evidence supports or does not support a side, taking into account the quality of the evidence
+
+## The Need for Making Counterarguments
+A good counterargument may weaken support for the other side or call into question evidence that has already been presented.
+
+If a good second counterargument is offered to rebut the first counterargument, readers may be especially persuaded. 
+
+## Reviewing and Revising
+Pianko (1979) found that first-year college students spent less than 10% of their writing time in reading and revising what they had written-a missed opportunity. 
+
+Reflecting on the quality of what you have written allows you to find errors, fix them, and otherwise improve your document. 
+
+
