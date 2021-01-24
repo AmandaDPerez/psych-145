@@ -76,7 +76,7 @@ For each chapter, you have a required quiz due that Saturday by 10pm. All due da
 <b>Student Contact and Canvas.</b> I will regularly send announcements through Canvas. It is your responsibility to regularly check Canvas for announcements and assignments.  
 
 
-<b>Late Work.</b> Late work is accepted with a 10% penalty. If it is more than 48 hours late, additional penalities will apply.
+<b>Late Work.</b> Late work is accepted with a 10% penalty. If it is more than 48 hours late, additional penalties will apply.
 
 <b>Academic Integrity.</b> Do NOT cheat. Do NOT plagiarize. To copy text or ideas from another source is plagiarism. Anyone caught cheating or plagiarizing will receive a zero for the assignment, and I will submit a Report of Academic Dishonesty to the college. For more information, read the DVC Procedure 4001.04 Academic Dishonesty policy (on Canvas).
 
