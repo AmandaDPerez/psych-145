@@ -1,5 +1,5 @@
 ---
-title: Chapter 1 Recording
+title: Chapter 4 Recording
 linktitle: Recording
 type: book
 date: "2019-05-05T00:00:00+01:00"
@@ -9,4 +9,6 @@ icon_pack: fas
 weight: 2
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9j7XLR9ULKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+These videos are optional to watch but many students find them helpful. This was recorded last semester so please ignore all references to "Pear Deck" as we are not using that this semester.
+
+<b>video coming soon</b>
