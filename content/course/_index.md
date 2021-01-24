@@ -16,7 +16,7 @@ This course presents critical thinking and writing skills necessary to analyze, 
 <b>Course Format</b>: Asynchronous and 100% online.
 
 ### Contact/Office Hours
-Office Hours will be done via signs-ups (link on Piazza). All communication will be done via Piazza. If you email me or message me on canvas, I cannot gaurantee that I will be able to respond to you in a timely manner.
+Office Hours will be done via signs-ups (link on Canvas). All communication will be done via Canvas. Put "Psych 145" in the subject. If you email me (or message me on canvas without the subject line of psych 145), I cannot guarantee that I will be able to respond to you in a timely manner.
 
 
 ## Schedule
@@ -42,20 +42,20 @@ Office Hours will be done via signs-ups (link on Piazza). All communication will
 |17 |<b>EXAM</b>|<b> Exam 3 (CH 10, 12-14) </b>|
 
 ## Grade Details
-There are 100 points in this class. Your grade in the class will be based on the following (a summary of these components is on the next page). Final grades will not be curved; letter grades will be based on rounded cutoffs (A > 88 > B > 78 > C > 68 > F). 
+Your grade in the class will be based on the following (a summary of these components follows). Final grades will not be curved; letter grades will be based on rounded cutoffs (A > 89 > B > 79 > C > 69 > F). 
 
-<b> Exams (53 points) </b>
+<b> Exams </b>
 <ul>
-  <li> 20 points Highest Scoring Exam </li>
-  <li> 18 points Middle Scoring Exam </li>
+  <li> 25 points Highest Scoring Exam </li>
+  <li> 20 points Middle Scoring Exam </li>
   <li> 15 points Lowest Scoring Exma </li>
   </ul>
   
- <b> PT Essays (15 points, 3 each) </b>
+ <b> PT Essays (25 points, 5 each) </b>
  
- <b> Video Responses (6 points, 2 each) </b>
+ <b> Video Responses (9 points, 3 each) </b>
  
- <b> Participation (26 points)</b>
+ <b> Chapter Quizzes (60 points, 6 each (lowest dropped))</b>
   
 ### Exams
 There will be a total of 3 Exams administered via canvas quizzes. They will be based on material from lectures and readings and will consist of multiple choice questions and occasionally some short answers. The exams are not cumulative and will only cover new untested material. I have a strong belief in rewarding growth and improvement. Therefore, your 3 exams will be weighted such that your higher scoring exams will be worth more. Exams are open-notes, open-book, and un-timed. 
@@ -64,11 +64,18 @@ There will be a total of 3 Exams administered via canvas quizzes. They will be b
 PT exercises will help  assess your knowledge and ability to apply new concepts and develop specifically targeted skills. They will also provide you with a wide variety of CT tasks intended to help you learn how to think like a psychologist. Finally, these PT exercises will allow for critical reading and analysis of discussions related to fascinating psychological questions. There are a total of 5 PT Essays due throughout the course. You will submit each PT Essay via a word document or PDF on Canvas assignments.
 
 ### Videos
-Ihave selected 3 videos (John Oliver on Scientific Studies, Bill Nye, & Astrology on Pseudoscience) to accompany week 1, week 6, and week 12, respectively.  You are to watch the videos and submit a response (few sentences) on Canvas assignments.
+I have selected 3 videos (John Oliver on Scientific Studies, Bill Nye, & Astrology on Pseudoscience) to accompany week 1, week 6, and week 12, respectively.  You are to watch the videos and submit a response (few sentences) on Canvas assignments.
+
+### Chapter Quizzes
+For each chapter, you have a required quiz due that Saturday by 10pm. All due dates are on Canvas.
+
+
 
 ## Course Policies
 
-<b>Student Contact and Canvas/Piazza.</b> I will regularly send announcements through Piazza. It is your responsibility to regularly check Piazza for announcements and assignments. 
+<b>Student Contact and Canvas.</b> I will regularly send announcements through Canvas. It is your responsibility to regularly check Canvas for announcements and assignments. 
+. 
+<b>Late Work.</b> Late work is accepted with a 10% penalty. If it is more than 48 hours late, additional penalities will apply.
 
 <b>Academic Integrity.</b> Do NOT cheat. Do NOT plagiarize. To copy text or ideas from another source is plagiarism. Anyone caught cheating or plagiarizing will receive a zero for the assignment, and I will submit a Report of Academic Dishonesty to the college. For more information, read the DVC Procedure 4001.04 Academic Dishonesty policy (on Canvas).
 
