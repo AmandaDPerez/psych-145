@@ -9,4 +9,6 @@ icon_pack: fas
 weight: 2
 ---
 
+Below is the video to the optional lecture recording for chapter 4. Please note, this was recorded during a previous semester and makes reference to Peardeck and Piazza. **Ignore that as we are NOT using those platforms this semester.**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9j7XLR9ULKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
