@@ -9,6 +9,6 @@ icon_pack: fas
 weight: 2
 ---
 
-These videos are optional to watch but many students find them helpful. This was recorded last semester so please ignore all references to "Pear Deck" as we are not using that this semester.
+Below is the link to the optional lecture recording for chapter 4. Please note, this was recorded during a previous semester and makes reference to Peardeck and Piazza. **Ignore that as we are NOT using those platforms this semester.**
 
-<b>video coming soon</b>
+[Zoom Link to Fall 2020 Recording](https://4cd.zoom.us/rec/share/FdWE2ToHTFIVa1dL7-BC7JhV74GqQticMv9olCUryJYkB620MUvsKYJHXCzjmyQ.17lDkGPPYdyMrffy?startTime=1600820377000)
