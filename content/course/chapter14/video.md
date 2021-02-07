@@ -9,6 +9,6 @@ icon_pack: fas
 weight: 2
 ---
 
-Below is the link to the optional lecture recording for chapter 8. Please note, this was recorded during a previous semester and makes reference to Peardeck and Piazza. **Ignore that as we are NOT using those platforms this semester.**
+Below is the link to the optional lecture recording for chapter 14. Please note, this was recorded during a previous semester and makes reference to Peardeck and Piazza. **Ignore that as we are NOT using those platforms this semester.**
 
 [Zoom Link to Fall 2020 Recording](https://4cd.zoom.us/rec/share/2F0fnmIFTNi3i6DUXHbg4IyD1ItZemwHZvByJf5e7QIG8tWWjhrhxuIblQ8z79b_.UOAb7Ou0z8eblGo4?startTime=1607370047000)
